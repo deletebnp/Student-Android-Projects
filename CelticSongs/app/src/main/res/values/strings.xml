@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Celtic Songs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtSplash">Celtic Sounds</string>
+    <string name="bagpipes">Bag Pipe Image</string>
+    <string name="jig">Jig Image</string>
+    <string name="btnBagPipes">Play Bag Pipe Song</string>
+    <string name="btnJig">Play Jig Song</string>
+    <string name="title_activity_main">Celtic Songs</string>
+</resources>

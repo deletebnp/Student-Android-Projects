@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Paint Calc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Paint Calculator</string>
+    <string name="txtHeight">Height of Room in Feet</string>
+    <string name="txtPerimeter">Perimeter of Room In Feet</string>
+    <string name="prompt">Select Paint Color</string>
+    <string name="description">Paint  Image</string>
+    <string name="btnCost">Calculate Gallons</string>
+    <string-array name="txtGroup">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Pearl</item>
+        <item>Lime Green</item>
+        <item>Yellow</item>
+    </string-array>
+</resources>

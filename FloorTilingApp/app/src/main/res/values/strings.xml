@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Floor Tiling App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Floor Tiling App</string>
+    <string name="hint">Length of Room in Feet</string>
+    <string name="hint2">Width of Room in Feet</string>
+    <string name="rad12by12">12 x 12 Tiles</string>
+    <string name="rad18x18">18 x 18 Tiles</string>
+    <string name="btnConvert">Calculate</string>
+</resources>

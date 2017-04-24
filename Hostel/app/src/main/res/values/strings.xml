@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hostel</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Indy Hostel</string>
+    <string name="description">Hostel Image</string>
+    <string name="btnHostel">Hostel Information</string>
+    <string name="txtTitle2">Indy Hostel</string>
+    <string name="txtItem1">4903 Winthrop Avenue</string>
+    <string name="txtItem2">Indianapolis, IN</string>
+    <string name="txtItem3">Cost Range: $27 to $70 A Night</string>
+    <string name="title_activity_hostel2">Hostel Information</string>
+</resources>

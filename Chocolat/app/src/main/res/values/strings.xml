@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chocolat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="macrons">Chocolate Macron Image</string>
+    <string name="macarons">Chocolate Macarons Image</string>
+    <string name="cake">Chocolate Cake</string>
+    <string name="mousse">Chocolate Mousse Image</string>
+    <string name="title_activity_mousse">Chocolate Mousse</string>
+    <string name="title_activity_cake">Chocolate Cake</string>
+    <string name="title_activity_macarons">Chocolate Macarons</string>
+</resources>
